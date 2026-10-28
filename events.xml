@@ -5,29 +5,23 @@
 <events>
  <track type="1" name="early">
   <event>
-    <title>I admitted to myself at 18 that I was bi</title>
+    <title>Ida B. Wells-Barnett is born</title>
     <date type="start">
-      <year>2023</year>
+      <year>1865</year>
       <era>AD</era>
     </date>
-    <description>I ended up running away from home for 3 days</description>
+    <description>In Holly Springs, Mississippi.</description>
     <lat>51.1789</lat>
     <lon>1.1713</lon>
   </event>
 
   <event>
-    <title>I developed a crush on my best friend</title>
+    <title>Wells-Barnett publishes Southern Horrors: Lynch Law in All Its Phases</title>
     <date type="start">
-      <year>2024</year>
-      <month>02</month>
+      <year>1892</year>
       <era>AD</era>
     </date>
-    <date type="end">
-    <year>2024</year>
-    <month>06</month>
-    <era>AD</era>
-    </date>
-    <description>This event will have dire consequences</description>
+    <description>A compilation of her investigation into lynching, spurned by the lynching of her close friend.</description>
     <lat>38.9419</lat>
     <lon>20.7400</lon>
   </event>
@@ -35,69 +29,45 @@
  
  <track type="2" name="mid">
   <event>
-    <title>A weird confusing friendship ensues that leaves us both heartbroken</title>
+    <title>Wells-Barnett publishes The Red Record</title>
     <date type="start">
-      <year>2024</year>
-      <month>05</month>
-      <day>14</day>
+      <year>1895</year>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>We stood each other up at times, she made me incredibly depressed, and I start to pull back to protect myself</description>
+    <description>According to the Library of Congress, this is the first documented statistical report on lynching.</description>
     <lat>48.8533</lat>
     <lon>2.3692</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prise_de_la_Bastille.jpg/640px-Prise_de_la_Bastille.jpg</media>
+    <media>https://cdn2.picryl.com/photo/1922/12/31/miss-ida-wells-barnett-image-from-page-73-of-the-story-of-the-illinois-federation-8817be-640.jpg</media>
   </event>
  
   <event>
-    <title>I cut contact and start college</title>
+    <title>Wells-Barnett refuses to walk in the back of the Women's Procession March</title>
     <date type="start">
-      <year>2024</year>
-      <month>08</month>
-      <day>14</day>
+      <year>1913</year>
       <era>AD</era>
     </date>
   <!--  <date type="end">
     </date>-->
-    <description>I never fully got over it all</description>
+    <description>Originally, black protestors were asked to march at the back in order to avoid controversy.</description>
     <lat>48.8566</lat>
     <lon>2.3522</lon>
   </event>
  
   <event>
-    <title>I break no contact</title>
+    <title>Wells-Barnett passes from kidney disease</title>
     <date type="start">
-      <year>2024</year>
-      <month>12</month>
-      <day>05</day>
+      <year>1931</year>
+      <month>03</month>
+      <day>15</day>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>Oh no.</description>
+    <description>Her legacy took decades to be fully appreciated, as with many women of color. It is so incredibly important to recognize the impact of Ida B. Wells-Barnett and all she did in the pursuit of justice against lynching.</description>
     <lat>48.8656</lat>
     <lon>2.3212</lon>
-  </event>
- </track>
-
-<track type="3" name="late">
-  <event>
-    <title>We meet up, and afterwards I resume no contact indefinitely</title>
-    <date type="start">
-      <year>2025</year>
-      <month>01</month>
-      <day>02</day>
-      <era>AD</era>
-    </date>
-    <date type="end">
-      <year>2025</year>
-      <era>AD</era>
-    </date>
-    <description>I am finally over it all and never want to resume that friendship</description>
-    <lat>48.8530</lat>
-    <lon>2.3499</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
   </event>
  </track>
 </events>
