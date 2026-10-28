@@ -10,10 +10,6 @@
       <year>2023</year>
       <era>AD</era>
     </date>
-    <date type="end">
-      <year>0054</year>
-      <era>BC</era>
-    </date>
     <description>I ended up running away from home for 3 days</description>
     <lat>51.1789</lat>
     <lon>1.1713</lon>
@@ -28,7 +24,7 @@
     </date>
     <date type="end">
     <year>2024</year>
-    <month>02</month>
+    <month>06</month>
     <era>AD</era>
     </date>
     <description>This event will have dire consequences</description>
