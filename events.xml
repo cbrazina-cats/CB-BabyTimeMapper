@@ -5,33 +5,29 @@
 <events>
  <track type="1" name="early">
   <event>
-    <title>Julius Caesar invades Britain</title>
+    <title>I admitted to myself at 18 that I was bi</title>
     <date type="start">
-      <year>0080</year>
-      <era>BC</era>
+      <year>2023</year>
+      <era>AD</era>
     </date>
-    <date type="end">
-      <year>0054</year>
-      <era>BC</era>
-    </date>
-    <description>Roscoe barks to go outside for the millionth time this hour.</description>
+    <description>I ended up running away from home for 3 days</description>
     <lat>51.1789</lat>
     <lon>1.1713</lon>
   </event>
 
   <event>
-    <title>I wasn't born yet still srry.</title>
+    <title>I developed a crush on my best friend</title>
     <date type="start">
-      <year>0031</year>
-      <month>09</month>
-      <era>BC</era>
+      <year>2024</year>
+      <month>02</month>
+      <era>AD</era>
     </date>
     <date type="end">
-    <year>0010</year>
-    <month>07</month>
-    <era>BC</era>
+    <year>2024</year>
+    <month>06</month>
+    <era>AD</era>
     </date>
-    <description>I fed my cat.</description>
+    <description>This event will have dire consequences</description>
     <lat>38.9419</lat>
     <lon>20.7400</lon>
   </event>
@@ -39,47 +35,47 @@
  
  <track type="2" name="mid">
   <event>
-    <title>Storming of the Bastille</title>
+    <title>A weird confusing friendship ensues that leaves us both heartbroken</title>
     <date type="start">
-      <year>1789</year>
-      <month>07</month>
+      <year>2024</year>
+      <month>05</month>
       <day>14</day>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>Parisian crowds stormed the Bastille fortress, marking the start of the French Revolution.</description>
+    <description>We stood each other up at times, she made me incredibly depressed, and I start to pull back to protect myself</description>
     <lat>48.8533</lat>
     <lon>2.3692</lon>
     <media>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prise_de_la_Bastille.jpg/640px-Prise_de_la_Bastille.jpg</media>
   </event>
  
   <event>
-    <title>Declaration of the Rights of Man</title>
+    <title>I cut contact and start college</title>
     <date type="start">
-      <year>1789</year>
+      <year>2024</year>
       <month>08</month>
-      <day>26</day>
+      <day>14</day>
       <era>AD</era>
     </date>
   <!--  <date type="end">
     </date>-->
-    <description>The National Constituent Assembly adopted this foundational document of human rights.</description>
+    <description>I never fully got over it all</description>
     <lat>48.8566</lat>
     <lon>2.3522</lon>
   </event>
  
   <event>
-    <title>Execution of Louis XVI</title>
+    <title>I break no contact</title>
     <date type="start">
-      <year>1793</year>
-      <month>01</month>
-      <day>21</day>
+      <year>2024</year>
+      <month>12</month>
+      <day>05</day>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>King Louis XVI was guillotined at the Place de la Révolution in Paris.</description>
+    <description>Oh no.</description>
     <lat>48.8656</lat>
     <lon>2.3212</lon>
   </event>
@@ -87,19 +83,18 @@
 
 <track type="3" name="late">
   <event>
-    <title>Napoleon crowned Emperor</title>
+    <title>We meet up, and afterwards I resume no contact indefinitely</title>
     <date type="start">
-      <year>1804</year>
-      <month>12</month>
+      <year>2025</year>
+      <month>01</month>
       <day>02</day>
       <era>AD</era>
     </date>
     <date type="end">
-      <year>1814</year>
+      <year>2025</year>
       <era>AD</era>
     </date>
-    <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.
-    His first reign as Emperor ends when he abdicates in 1814</description>
+    <description>I am finally over it all and never want to resume that friendship</description>
     <lat>48.8530</lat>
     <lon>2.3499</lon>
     <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
